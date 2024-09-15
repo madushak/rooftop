@@ -1,6 +1,3 @@
 User-agent: *
-
 Allow: /
-
 Sitemap: https://camponwheels.ca/sitemap.xml
-Sitemap: https://blog.camponcar.com/sitemap.xml

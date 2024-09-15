@@ -340,6 +340,12 @@ body {
     }
 }
 
+h1 {
+    font-size: 40px;
+    display: inline;
+    font-weight: 400;
+}
+
 #text {
     position: fixed;
     color: #fff;

@@ -8,6 +8,28 @@ body {
     
 }
 
+#bgvd {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    min-width: 100%;
+    min-height: 100%;
+    bottom: 0;
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+  }
+  
+#dd{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+
 .title {
     position: absolute;
     width: 100%;
@@ -322,7 +344,7 @@ body {
     position: fixed;
     color: #fff;
     font-size: 40px;
-    top: 20%;
+    top: 40%;
     text-align: center;
     width: 100%;
 }

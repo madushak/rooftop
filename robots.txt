@@ -3,3 +3,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://camponcar.com/sitemap.xml
+Sitemap: https://blog.camponcar.com/sitemap.xml

@@ -25,6 +25,10 @@ body {
     font-family: "Source Serif 4", serif;
 }
 
+#menu ul {
+    padding: 0;
+}
+
 #menu li {
     display: inline;
 }
